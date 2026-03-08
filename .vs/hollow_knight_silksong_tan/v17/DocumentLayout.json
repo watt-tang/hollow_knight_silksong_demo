@@ -1,0 +1,210 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS project\\hollow_knight_silksong_tan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\Vector2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\Point.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\AnimationA.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\AnimationA.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\Animation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationName.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\AnimationName.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{549F1F31-4404-4A1B-9BF3-9EF88D376A02}|hollow_knight_silksong_tan\\hollow_knight_silksong_tan.vcxproj|solutionrelative:hollow_knight_silksong_tan\\Vector2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "game.cpp",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\game.cpp",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\game.cpp",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\game.cpp",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\game.cpp",
+              "ViewState": "AgIAAE4GAAAAAAAAAABQPWwGAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T02:58:19.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vector2.h",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Vector2.h",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\Vector2.h",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Vector2.h",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\Vector2.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T03:01:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vector2.cpp",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Vector2.cpp",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\Vector2.cpp",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Vector2.cpp",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\Vector2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T03:01:05.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AnimationA.cpp",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationA.cpp",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\AnimationA.cpp",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationA.cpp",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\AnimationA.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-05T12:35:58.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point.h",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Point.h",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\Point.h",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Point.h",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\Point.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T03:05:44.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Actor.h",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Actor.h",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\Actor.h",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Actor.h",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\Actor.h",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T02:11:50.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Animation.cpp",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Animation.cpp",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\Animation.cpp",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Animation.cpp",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\Animation.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T04:57:10.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Actor.cpp",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\Actor.cpp",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Actor.cpp",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\Actor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-02T02:12:31.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnimationA.h",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationA.h",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\AnimationA.h",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationA.h",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\AnimationA.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T03:05:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnimationName.h",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationName.h",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\AnimationName.h",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\AnimationName.h",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\AnimationName.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T03:05:45.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Animation.h",
+              "DocumentMoniker": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Animation.h",
+              "RelativeDocumentMoniker": "hollow_knight_silksong_tan\\Animation.h",
+              "ToolTip": "D:\\VS project\\hollow_knight_silksong_tan\\hollow_knight_silksong_tan\\Animation.h",
+              "RelativeToolTip": "hollow_knight_silksong_tan\\Animation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-02T02:13:01.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
